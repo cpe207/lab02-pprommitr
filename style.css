@@ -1,0 +1,26 @@
+.skill-big {
+  text-align: center;
+  color: peru;
+  font-style: italic;
+}
+
+h3 {
+  text-align: center;
+  color: brown;
+  font-style: italic;
+}
+
+.skill-header {
+  text-align: left;
+  color: brown;
+  font-style: italic;
+}
+
+.skill-container {
+  border: solid sandybrown;
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
